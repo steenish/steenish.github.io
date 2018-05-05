@@ -5,8 +5,16 @@ body {
   padding: 0 !important;
 }
 
-a {
+a:link {
   color: #E2007F;
+}
+
+a:visited {
+    color: #EC5F99;
+}
+
+a:hover {
+    color: #e62d5c;
 }
 
 #center {
