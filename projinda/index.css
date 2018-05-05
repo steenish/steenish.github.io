@@ -49,6 +49,6 @@ a:hover {
   padding: 10px;
 }
 
-.content-article h2 {
+.content-article > h2 {
   margin-top: 0;
 }
