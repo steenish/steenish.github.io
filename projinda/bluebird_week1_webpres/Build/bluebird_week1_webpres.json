@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Bluebird",
+"dataUrl": "bluebird_week1_webpres.data.unityweb",
+"asmCodeUrl": "bluebird_week1_webpres.asm.code.unityweb",
+"asmMemoryUrl": "bluebird_week1_webpres.asm.memory.unityweb",
+"asmFrameworkUrl": "bluebird_week1_webpres.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
