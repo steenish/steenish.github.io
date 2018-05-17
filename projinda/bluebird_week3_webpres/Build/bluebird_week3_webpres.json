@@ -1,0 +1,13 @@
+{
+"companyName": "Ditchbus Games",
+"productName": "Bluebird",
+"dataUrl": "bluebird_week3_webpres.data.unityweb",
+"asmCodeUrl": "bluebird_week3_webpres.asm.code.unityweb",
+"asmMemoryUrl": "bluebird_week3_webpres.asm.memory.unityweb",
+"asmFrameworkUrl": "bluebird_week3_webpres.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
