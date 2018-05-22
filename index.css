@@ -1,0 +1,35 @@
+body {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+header {
+  background-color: #2e2e2e;
+  border-radius: 1em;
+  padding-left: 1em;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+
+header > h1 {
+  display: inline-block;
+  font-size: 3em;
+}
+
+.topnav {
+    overflow: hidden;
+    display: inline-block;
+}
+
+.topnav a {
+  display: inline-block;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  color: #ff6c11;
+}
