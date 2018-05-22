@@ -3,15 +3,23 @@ body {
   color: #ffffff;
 }
 
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff6c11;
+}
+
 header {
   background-color: #2e2e2e;
   border-radius: 1em;
-  padding-left: 1em;
 }
 
 .logo {
-  height: 50px;
-  width: 50px;
+  height: 75px;
+  width: 75px;
 }
 
 header > h1 {
@@ -26,10 +34,27 @@ header > h1 {
 
 .topnav a {
   display: inline-block;
-  color: #ffffff;
-  text-decoration: none;
 }
 
-.topnav a:hover {
-  color: #ff6c11;
+.centerTable {
+  width: 100%;
+}
+
+.content {
+  width: 75%;
+}
+
+.content div {
+  background-color: #2e2e2e;
+  border-radius: 1em;
+}
+
+.sidebar div {
+  background-color: #2e2e2e;
+  border-radius: 1em;
+}
+
+footer {
+  background-color: #2e2e2e;
+  border-radius: 1em;
 }
