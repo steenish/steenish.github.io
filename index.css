@@ -18,43 +18,131 @@ header {
 }
 
 .logo {
-  height: 75px;
-  width: 75px;
+  height: 115px;
+  width: 115px;
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
 }
 
 header > h1 {
   display: inline-block;
   font-size: 3em;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 110px;
+  vertical-align: middle;
 }
 
-.topnav {
+.topNav {
     overflow: hidden;
     display: inline-block;
+    border-radius: 1em;
+    background-color: #3e3e3e;
+    height: 100%;
+    margin: 15px;
+    vertical-align: middle;
 }
 
-.topnav a {
+.topNav a {
   display: inline-block;
+  font-size: 1.5em;
+  padding: 1em;
+}
+
+.topNav a:hover {
+  background-color: #ff6c11;
+  color: #ffffff;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #2e2e2e;
+    margin: 1em 0;
+    padding: 0;
 }
 
 .centerTable {
   width: 100%;
+  display: table;
+}
+
+.caption {
+  display: table-caption;
+  margin-bottom: 5px;
+}
+
+.column {
+  display: table-cell;
+}
+
+.currentNav {
+  background-color: #2e2e2e;
+  border-radius: 1em;
+  text-align: left;
+  padding: 10px;
+}
+
+.currentNav p {
+  margin: 0;
+  color: #6e6e6e;
 }
 
 .content {
-  width: 75%;
-}
-
-.content div {
+  width: 85%;
   background-color: #2e2e2e;
   border-radius: 1em;
+  padding: 15px;
 }
 
-.sidebar div {
+.content h2 {
+  margin-top: 10px;
+}
+
+.sidebar {
+  height: 100%;
   background-color: #2e2e2e;
   border-radius: 1em;
+  padding: 15px;
+}
+
+.sidebar h3 {
+  margin-top: 10px;
+}
+
+.sidebar ul {
+  list-style-image: url(img/geodrop-logo16.png);
 }
 
 footer {
   background-color: #2e2e2e;
   border-radius: 1em;
+  display: flex;
+  align-items: center;
+  padding-bottom: 15px;
+}
+
+footer > div {
+  text-align: center;
+  width: 100%
+}
+
+.botLogoWrapper {
+  display: block;
+}
+
+.botLogoWrapper img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.botLogoWrapper h3 {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.botNav {
+  display: block;
 }
