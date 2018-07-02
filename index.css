@@ -19,3 +19,9 @@ body {
 .content-article {
   margin-top: 3em;
 }
+
+.date {
+  color: #818181;
+  font-style: normal;
+  font-size: 1em;
+}
