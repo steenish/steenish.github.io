@@ -1,148 +1,21 @@
 body {
-  background-color: #1e1e1e;
-  color: #ffffff;
+  background-color: #c1c1c1;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #ff6c11;
-}
-
-header {
-  background-color: #2e2e2e;
+.center {
+  background-color: #ffffff;
+  width: 75%;
+  margin-left: 10%;
+  margin-top: 5em;
+  padding-left: 3em;
+  padding-right: 3em;
   border-radius: 1em;
+  border-style: solid;
+  border-width: medium;
+  border-color: #595959;
+  box-shadow: 0px 0px 50px 5px rgba(0,0,0,0.75);
 }
 
-.logo {
-  height: 115px;
-  width: 115px;
-  display: inline-block;
-  vertical-align: middle;
-  position: absolute;
-}
-
-header > h1 {
-  display: inline-block;
-  font-size: 3em;
-  margin-bottom: 10px;
-  margin-top: 10px;
-  margin-left: 110px;
-  vertical-align: middle;
-}
-
-.topNav {
-    overflow: hidden;
-    display: inline-block;
-    border-radius: 1em;
-    background-color: #3e3e3e;
-    height: 100%;
-    margin: 15px;
-    vertical-align: middle;
-}
-
-.topNav a {
-  display: inline-block;
-  font-size: 1.5em;
-  padding: 1em;
-}
-
-.topNav a:hover {
-  background-color: #ff6c11;
-  color: #ffffff;
-}
-
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #2e2e2e;
-    margin: 1em 0;
-    padding: 0;
-}
-
-.centerTable {
-  width: 100%;
-  display: table;
-}
-
-.caption {
-  display: table-caption;
-  margin-bottom: 5px;
-}
-
-.column {
-  display: table-cell;
-}
-
-.currentNav {
-  background-color: #2e2e2e;
-  border-radius: 1em;
-  text-align: left;
-  padding: 10px;
-}
-
-.currentNav p {
-  margin: 0;
-  color: #6e6e6e;
-}
-
-.content {
-  width: 85%;
-  background-color: #2e2e2e;
-  border-radius: 1em;
-  padding: 15px;
-}
-
-.content h2 {
-  margin-top: 10px;
-}
-
-.sidebar {
-  height: 100%;
-  background-color: #2e2e2e;
-  border-radius: 1em;
-  padding: 15px;
-}
-
-.sidebar h3 {
-  margin-top: 10px;
-}
-
-.sidebar ul {
-  list-style-image: url(/img/geodrop-logo16.png);
-}
-
-footer {
-  background-color: #2e2e2e;
-  border-radius: 1em;
-  display: flex;
-  align-items: center;
-  padding-bottom: 15px;
-}
-
-footer > div {
-  text-align: center;
-  width: 100%
-}
-
-.botLogoWrapper {
-  display: block;
-}
-
-.botLogoWrapper img {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.botLogoWrapper h3 {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.botNav {
-  display: block;
+.content-article {
+  margin-top: 3em;
 }
