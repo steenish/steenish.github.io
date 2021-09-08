@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Unity WebGL Player | Golf Without Friends</title>
+  <script src="Build/UnityLoader.js"></script>
+  <script>
+  var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Web build.json");
+  </script>
+</head>
+<body>
+  <div id="gameContainer" style="width: 960px; height: 600px; margin: auto"></div>
+  <div style="position:fixed; bottom:30em; right:10em;">
+    <h3>Instruktioner:</h3>
+    <table>
+      <tr>
+        <td>A / Vänsterpil</td><td>:</td><td>Rotera kameran åt vänster.</td>
+      </tr>
+      <tr>
+        <td>D / Högerpil</td><td>:</td><td>Rotera kameran åt höger.</td>
+      </tr>
+      <tr>
+        <td>Vänsterklick</td><td>:</td><td>Slå ett slag med putter.</td>
+      </tr>
+      <tr>
+        <td>Högerklick</td><td>:</td><td>Slå ett slag med wedge.</td>
+      </tr>
+      <tr>
+        <td>Mittklick</td><td>:</td><td>Slå ett slag med drive.</td>
+      </tr>
+      <tr>
+        <td>Esc</td><td>:</td><td>Starta om simulationen.</td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>

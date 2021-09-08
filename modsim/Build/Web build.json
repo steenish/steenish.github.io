@@ -1,0 +1,13 @@
+{
+"companyName": "Anders Steen & Michael Mathsson",
+"productName": "Golf Without Friends",
+"dataUrl": "Web build.data.unityweb",
+"asmCodeUrl": "Web build.asm.code.unityweb",
+"asmMemoryUrl": "Web build.asm.memory.unityweb",
+"asmFrameworkUrl": "Web build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

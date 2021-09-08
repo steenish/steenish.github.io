@@ -1,0 +1,35 @@
+body {
+  background-image: url("img/grid.png");
+}
+
+.center {
+  text-align: center;
+}
+
+.center-inside {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.center-table {
+  display: table;
+}
+
+.center-table-row {
+  display: table-row;
+}
+
+.center-table-cell {
+  display: table-cell;
+  text-align: justify;
+  padding: 0.5em 2em 1em 2em;
+  background-color: #FFE7FF;
+  border-radius: 1em;
+  border: solid 3px #000099;
+ # box-shadow: inset 0px 0px 2em 1em #2222AA;
+}
+
+.date {
+  font-size: 15px;
+  color: #222222;
+}
