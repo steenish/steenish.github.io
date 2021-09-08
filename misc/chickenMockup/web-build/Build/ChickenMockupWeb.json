@@ -1,0 +1,16 @@
+{
+"companyName": "Ander Steen",
+"productName": "Chicken Game Mockup",
+"productVersion": "1.1",
+"dataUrl": "ChickenMockupWeb.data.unityweb",
+"wasmCodeUrl": "ChickenMockupWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "ChickenMockupWeb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}

@@ -1,0 +1,16 @@
+{
+"companyName": "Geodrop Studios",
+"productName": "com.GeodropStudios.8-puzzle",
+"productVersion": "1.0",
+"dataUrl": "8-puzzle.data.unityweb",
+"wasmCodeUrl": "8-puzzle.wasm.code.unityweb",
+"wasmFrameworkUrl": "8-puzzle.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#101010",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
