@@ -124,6 +124,10 @@ html {
   padding: 0.5em;
 }
 
+#thumbnail {
+  display: none;
+}
+
 .row::after {
   content: "";
   clear: both;
