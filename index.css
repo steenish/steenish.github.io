@@ -24,8 +24,8 @@ html {
   width: 100%;
   bottom: 0px;
   left: 0px;
-  border-top: solid 3px #000099;
-  background-color: #000099;
+  border-top: solid 3px #8B9CD7;
+  background-color: #8B9CD7;
   opacity: 0.9;
   display: table;
 }
@@ -47,7 +47,7 @@ html {
   margin: 0px;
   width: 25%;
   color: white;
-  background-color: #A60798;
+  background-color: #9F09CA;
   cursor: pointer;
 }
 
@@ -75,7 +75,7 @@ html {
   text-align: justify;
   background-color: #FFE7FF;
   border-radius: 5px;
-  border: solid 3px #000099;
+  border: solid 3px #8B9CD7;
 }
 
 .header h1 {
@@ -94,7 +94,7 @@ html {
   text-align: justify;
   background-color: #FFE7FF;
   border-radius: 5px;
-  border: solid 3px #000099;
+  border: solid 3px #8B9CD7;
 }
 
 .post h3 {
@@ -110,7 +110,7 @@ html {
   text-align: center;
   background-color: #FFE7FF;
   border-radius: 5px;
-  border: solid 3px #000099;
+  border: solid 3px #8B9CD7;
 }
 
 .date {
