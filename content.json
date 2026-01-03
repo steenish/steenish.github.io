@@ -1,0 +1,316 @@
+{
+    "categories": [
+        "pGames",
+        "hGames",
+        "art",
+        "papers"
+    ],
+    "projects": [
+        {
+            "id": "game0",
+            "category": "pGames",
+            "name": "Home Sports",
+            "date": "2024-12-11",
+            "externalLink": "https://www.meta.com/en-gb/experiences/home-sports/8975028309180826/?srsltid=AfmBOopX2Arh1cB9l4Om6ACw1QpoMjW3whUKKqVNrVIUAQV4RvDsF4ZD",
+            "keywords": [
+                "XR",
+                "Meta Quest",
+                "Unity",
+                "C#",
+                "Gameplay",
+                "AI",
+                "Physics"
+            ],
+            "thumbnail": "/img/homeSportsThumb.jpg",
+            "mainImage": "/img/homeSportsMain.jpg",
+            "description": "This was my first professionally released game, which I worked on while I was at Resolution Games. The game is a sports game for the Meta Quest 3 with five different sports: bowling, minigolf, ice hockey, pickleball, and badminton. It's meant to be a casual game where players can easily play with others across the world, with friends, or with bot players.",
+            "contributions": "I worked on the project from early prototyping with a team of four programmers, to scale up and full production with about 30 team members. My focuses were on prototyping, machine learning integration, AI behavior, physics simulation, and various other gameplay tasks."
+        },
+        {
+            "id": "gameVictoria",
+            "category": "pGames",
+            "name": "Victoria 3",
+            "date": "2025-05-05",
+            "externalLink": "https://store.steampowered.com/app/529340/Victoria_3/",
+            "keywords": [
+                "PC",
+                "Strategy",
+                "Clausewitz Engine",
+                "C++",
+                "Gameplay"
+            ],
+            "thumbnail": "/img/victoria3.jpg",
+            "mainImage": "/img/victoria3ingame.jpg",
+            "description": "For a long time I considered it a faraway dream to be working on a grand strategy game at Paradox, but in May of 2025 that dream became a reality when I started as a gameplay programmer on Victoria 3. Working on such a large and old codebase was a challenge at first but after a while I got comfortable and I am proud of what I have contributed to the game and the positive reception it has received since.",
+            "contributions": "Gameplay programming on this project involves mostly creating gameplay systems but occasionally the engine needed modification, so tasks varied. I joined just in time to contribute some bugfixes to the critically acclaimed Charters of Commerce DLC. I have then contributed to the DLCs National Awakening, Songs of the Homeland, and Iberian Twilight."
+        },
+        {
+            "id": "game1",
+            "category": "hGames",
+            "name": "Scale or Fail",
+            "date": "2024-08-18",
+            "externalLink": "https://steenish.itch.io/scaleorfail",
+            "keywords": [
+                "Game Jam",
+                "Unity",
+                "C#",
+                "Gameplay",
+                "Generalist",
+                "Arcade",
+                "Game Show"
+            ],
+            "thumbnail": "https://img.itch.zone/aW1nLzE3MzgxNTMwLnBuZw==/315x250%23c/Ef52P%2F.png",
+            "mainImage": "https://img.itch.zone/aW1hZ2UvMjkwMTMyNi8xNzM4Mjk2OC5wbmc=/original/tqEzg1.png",
+            "description": "I partook in the GMTK Game Jam 2024 with my brother and my partner. The theme was Built to Scale, and we interpreted it as scaling as in climbing, and building as in building a climbing wall in a game show.",
+            "contributions": "My responsibility was all programming, and I shared the responsibility for the game design and visual direction."
+        },
+        {
+            "id": "game2",
+            "category": "hGames",
+            "name": "Escortee",
+            "date": "2023-07-09",
+            "externalLink": "https://steenish.itch.io/escortee",
+            "keywords": [
+                "Game Jam",
+                "Unity",
+                "C#",
+                "Gameplay",
+                "Generalist",
+                "Action RPG",
+                "Top-down"
+            ],
+            "thumbnail": "https://img.itch.zone/aW1nLzEyNzE0ODIxLnBuZw==/315x250%23c/T0r4UK.png",
+            "mainImage": "https://img.itch.zone/aW1hZ2UvMjE1MzA1NC8xMjczNzA4Mi5wbmc=/original/POhPnm.png",
+            "description": "I partook in the GMTK Game Jam 2023 with my brother. The theme was Roles Reversed, which made us think of those typical escort quests from MMOs where the escortee almost seems to intentionally make things annoying for you. This game places you in the shoes of that same escortee!",
+            "contributions": "I did the programming, and shared responsibility over the game design."
+        },
+        {
+            "id": "game3",
+            "category": "hGames",
+            "name": "Dice Control",
+            "date": "2022-07-17",
+            "externalLink": "https://steenish.itch.io/dicecontrol",
+            "keywords": [
+                "Game Jam",
+                "Unity",
+                "C#",
+                "Gameplay",
+                "Generalist",
+                "Puzzle",
+                "Platformer",
+                "Arcade",
+                "Speedrun"
+            ],
+            "thumbnail": "https://img.itch.zone/aW1nLzk1NDEzMzcucG5n/315x250%23c/vhQ0Dq.png",
+            "mainImage": "https://img.itch.zone/aW1hZ2UvMTYxNjE3NC85NDk4OTk4LnBuZw==/original/iGA9dT.png",
+            "description": "For the GMTK 2022 game jam, my brother and I made this 3D puzzle platformer on the theme of Role of the Dice. The competition was tough this year, with 6147 games submitted, and we ended up in 145th place.",
+            "contributions": "Full responsibility for programming, shared responsibility for game design."
+        },
+        {
+            "id": "game4",
+            "category": "hGames",
+            "name": "Congalong",
+            "date": "2021-07-13",
+            "externalLink": "https://steenish.itch.io/congalong",
+            "keywords": [
+                "Game Jam",
+                "Unity",
+                "C#",
+                "Gameplay",
+                "Generalist",
+                "Arcade"
+            ],
+            "thumbnail": "https://img.itch.zone/aW1nLzYyMTk1MzcucG5n/315x250%23c/c0r0aY.png",
+            "mainImage": "https://img.itch.zone/aW1hZ2UvMTA3OTA3OS82MjE3ODI3LnBuZw==/original/uY%2FP6e.png",
+            "description": "The theme of the GMTK 2021 Game Jam was Joined Together, which inspired my brother and me to make this game where you form a long conga line by chasing down potential dancers and toasting left and right. The game ended up in 56th place out of 5651 and actually got featured in the organizer's video at the end!",
+            "contributions": "I did the programming, and shared responsibility for game design and audio engineering."
+        },
+        {
+            "id": "game5",
+            "category": "hGames",
+            "name": "Maldimensional",
+            "date": "2020-07-11",
+            "externalLink": "https://steenish.itch.io/maldimensional",
+            "keywords": [
+                "Game Jam",
+                "Unity",
+                "C#",
+                "Gameplay",
+                "Generalist",
+                "Arcade",
+                "Platformer"
+            ],
+            "thumbnail": "https://img.itch.zone/aW1nLzM4MzA2OTkucG5n/315x250%23c/%2F55hlt.png",
+            "mainImage": "/img/maldimensional.png",
+            "description": "I partook in the GMTK Game Jam 2020 with my brother. The theme was Out of Control, and we came up with a platformer with a jetpack where each time you use it the level gets scrambled. Canonically we made it into a scientist trying to get home, but his dimensional scrambler accidentally got connected to his jetpack throttle. In the end we placed 675th among 5249 entries!",
+            "contributions": "I was the only programmer, and I also composed the music. I shared responsibility for the game design."
+        },
+        {
+            "id": "game6",
+            "category": "hGames",
+            "name": "Find the Whey",
+            "date": "2025-04-06",
+            "externalLink": "https://dearted.itch.io/find-the-whey",
+            "keywords": [
+                "Game Jam",
+                "Godot",
+                "C#",
+                "Gameplay",
+                "Generalist",
+                "Pixel Art",
+                "Arcade",
+                "Action"
+            ],
+            "thumbnail": "https://img.itch.zone/aW1nLzIwNTg4MTE0LnBuZw==/315x250%23c/HMLvvj.png",
+            "mainImage": "https://img.itch.zone/aW1nLzIwNTg4MTE0LnBuZw==/original/1pub58.png",
+            "description": "While working at Netlight some colleagues and I organized a game jam for employees. The theme was Find the Way which I and four teammates interpreted as Find the Whey, where you play as a muscle man who can't sleep because of his loud neighbor. He needs to get stronger to deal with it and needs whey protein and exercise, then he has to go find his neighbor.",
+            "contributions": "I created all the art and animations, designed and constructed the level and programmed certain parts like the player controller, pickups, and bench press."
+        },
+        {
+            "id": "gameExplorbit",
+            "category": "hGames",
+            "name": "Explorbit 2200",
+            "date": "2025-08-03",
+            "externalLink": "https://steenish.itch.io/explorbit-2200",
+            "keywords": [
+                "Game Jam",
+                "Unity",
+                "C#",
+                "Gameplay",
+                "Generalist",
+                "Exploration",
+                "Space"
+            ],
+            "thumbnail": "https://img.itch.zone/aW1nLzIyNTUzMTcwLnBuZw==/315x250%23c/6IdP4x.png",
+            "mainImage": "https://img.itch.zone/aW1hZ2UvMzc3NTkwNi8yMjUzMjcwOS5wbmc=/original/OqL0Du.png",
+            "description": "I partook in the GMTK Game Jam 2025 with my brother. The theme was Loop, which we interpreted as the looping movement that a satellite makes around a celestial object. This lead us to create this game where you play as a small spacecraft exploring space by jumping between orbits and mining resources from planets.",
+            "contributions": "My responsibility was all programming and tech art, and I shared the responsibility for the game design and visual direction."
+        },
+        {
+            "id": "art0",
+            "category": "art",
+            "name": "Donut of 2021",
+            "date": "2021-04-23",
+            "thumbnail": "/img/art/donut21.png",
+            "mainImage": "/img/art/donut21.png",
+            "description": "Youtuber Blender Guru has created multiple versions of his famous donut tutorial. When I first learned Blender I started out with his first donut tutorial, and then a few years later I followed his new tutorial and made this donut. I was extremely excited to create my first donut, but this one I thought was on a whole other level."
+        },
+        {
+            "id": "art1",
+            "category": "art",
+            "name": "Crystal Cave",
+            "date": "2021-01-08",
+            "thumbnail": "/img/art/crystalCave.png",
+            "mainImage": "/img/art/crystalCave.png",
+            "description": "I saw a video of how to create crystals procedurally in Blender, and when I had done that I wanted to put the crystal somewhere so I made this cave environment and crystal holder to give the vibe that this is some kind of abandoned power crystal."
+        },
+        {
+            "id": "art2",
+            "category": "art",
+            "name": "Sink Nightmare",
+            "date": "2020-03-26",
+            "thumbnail": "/img/art/sink.png",
+            "mainImage": "/img/art/sink.png",
+            "description": "I wanted to create humans and put them in some situation so I pulled inspiration from a nightmare I had as a kid where I was trapped in my bathroom sink. I reimagined it a little bit as scientist explorers in a liminal space featuring a cracked porcelain plain with sink features such as the plug in the picture."
+        },
+        {
+            "id": "art3",
+            "category": "art",
+            "name": "Sandman",
+            "date": "2020-01-27",
+            "thumbnail": "/img/art/face.png",
+            "mainImage": "/img/art/face.png",
+            "description": "After finishing creating a face as part of practicing sculpting I wanted to put it somewhere so I buried it in sand and tried going for the vibe that it was a lost ancient or alien artifact that has just surfaced."
+        },
+        {
+            "id": "art4",
+            "category": "art",
+            "name": "Tomato Kitchen",
+            "date": "2019-11-16",
+            "thumbnail": "/img/art/kitchen.png",
+            "mainImage": "/img/art/kitchen.png",
+            "description": "This was my first properly big project with more than just a couple of objects. I wanted the challenge of creating many objects that most people find familiar, while trying my best to achieve photorealism. I'm especially proud of the sliced tomato."
+        },
+        {
+            "id": "paper0",
+            "category": "papers",
+            "shortName": "Master's Thesis",
+            "name": "Realism of Procedural Lichens on Horizontal Stone Surfaces: Simulation and evaluation of lichens",
+            "date": "2022-08-04",
+            "externalLink": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313103",
+            "keywords": [
+                "Master's thesis",
+                "Simulation",
+                "Weathering",
+                "Erosion",
+                "Lichens",
+                "Unity",
+                "C#",
+                "Procedual generation"
+            ],
+            "thumbnail": "/img/lichens.png",
+            "mainImage": "/img/lichens.png",
+            "description": "This is my Master's thesis. Originally it was about evaluating the realism of a technique I developed for making a stone surface look more aged. This involved creating simulations of the many chemical, mechanical, and biological processes that affect stone surfaces over time. When I had done all the research it turned out it would be too much to fit in a thesis, so I ended up only writing about the simulation of the biological process of lichens growing on the stone surface. The main objective was to evaluate what humans think of the realism of the lichens.",
+            "contributions": "This work was entirely made by me."
+        },
+        {
+            "id": "paper1",
+            "category": "papers",
+            "shortName": "Trajectories in Human-Robot Encounters",
+            "name": "Formalizing Trajectories in Human-Robot Encounters via Probabilistic STL Inference",
+            "date": "2021-06-13",
+            "externalLink": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-310027",
+            "keywords": [
+                "Robotics",
+                "Simulation",
+                "Unity",
+                "C#",
+                "Research",
+                "KTH"
+            ],
+            "thumbnail": "/img/trajectories.png",
+            "mainImage": "/img/trajectories.png",
+            "description": "This researched aimed to find out how humans react when faced with the situation of colliding head-on with a robot. This was done through an online study where participants would control a human in a simulation of the situation, and collecting data about the trajectory the human would take.",
+            "contributions": "I created the simulation in its entirety, except the assets themselves."
+        },
+        {
+            "id": "paper2",
+            "category": "papers",
+            "shortName": "Should Robots Chicken?",
+            "name": "Should Robots Chicken? How Anthropomorphism and Perceived Autonomy Influence Trajectories in a Game-Theoretic Problem",
+            "date": "2021-01-08",
+            "externalLink": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-298435",
+            "keywords": [
+                "Robotics",
+                "Simulation",
+                "Unity",
+                "C#",
+                "Research",
+                "KTH"
+            ],
+            "thumbnail": "/img/chickenRobot.png",
+            "mainImage": "/img/chickenRobot.png",
+            "description": "This research aimed to answer the question of what should happen when a human and a robot walk in opposite directions on a collision course. This is a common situations with two humans, so creating socially acceptable robot behaviors involves knowing what should happen in a situation like this, and what humans expect to happen. This was done through an online study where participants would control a human in a simulation of the situation, and collecting data about how the human would react.",
+            "contributions": "I created the simulation in its entirety, except the assets themselves."
+        },
+        {
+            "id": "paper3",
+            "category": "papers",
+            "shortName": "Bachelor's Thesis",
+            "name": "Evaluating the utility of a contract compositionality proof framework",
+            "date": "2020-09-08",
+            "externalLink": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280343",
+            "keywords": [
+                "Bachelor's Thesis",
+                "Systems design",
+                "Formal proof",
+                "Contracts",
+                "Research"
+            ],
+            "thumbnail": "/img/contracts.png",
+            "mainImage": "/img/contracts.png",
+            "description": "This is my Bachelor's thesis which I did with one other person and a supervisor. As part of his previous research, the supervisor had created a framework for composing contracts between components in a system. The focus was to evaluate how useful the framework was.",
+            "contributions": "All work was shared equally, I was responsible for half of it."
+        }
+    ]
+}
